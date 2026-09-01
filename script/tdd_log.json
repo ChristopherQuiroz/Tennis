@@ -1,8 +1,46 @@
 [
   {
-    "commitId": "HEAD",
+    "commitId": "d4ebbd46e4cf70324baf9d79b5ee60469ca3395f",
     "commitName": "feat: casos de prueba",
     "commitTimestamp": 1788271341026,
     "testId": 0
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 0,
+    "numTotalTests": 0,
+    "timestamp": 1788271465972,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 0,
+    "numTotalTests": 0,
+    "timestamp": 1788271788590,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1788271868942,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1788271888051,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Agregar puntuacion inicial Love - Love",
+    "commitTimestamp": 1788271934071,
+    "testId": 1
   }
 ]

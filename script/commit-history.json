@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "d4ebbd46e4cf70324baf9d79b5ee60469ca3395f",
     "author": "Chris",
     "commit": {
       "date": "2026-09-01T14:02:18.000Z",
       "message": "feat: casos de prueba",
-      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/d4ebbd46e4cf70324baf9d79b5ee60469ca3395f"
     },
     "stats": {
       "total": 53,
@@ -17,5 +17,24 @@
     "test_count": 0,
     "failed_tests": 0,
     "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Chris",
+    "commit": {
+      "date": "2026-09-01T14:12:12.000Z",
+      "message": "feat: Agregar puntuacion inicial Love - Love",
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
