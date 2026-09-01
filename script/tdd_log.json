@@ -44,9 +44,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "47fd46d148a1db95c1fb43335d25640cc30b11eb",
     "commitName": "feat: Agregado de estructura html y presenter muestra el score en el resultadodiv",
     "commitTimestamp": 1788272245052,
     "testId": 2
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1788272599528,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1788272661389,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Agregar puntuacion a favor de jugador 1 y jugador 2 no anoto -> 15 - Love",
+    "commitTimestamp": 1788272862399,
+    "testId": 3
   }
 ]

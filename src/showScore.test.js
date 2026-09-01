@@ -5,4 +5,8 @@ describe('calculateScore', () => {
     it("Deberia mostrar Love - Love si ambos estan en cero", () => {
         expect(calculateScore(0, 0)).toEqual("Love - Love");
     });
+
+    it("Deberia mostrar 15 - Love si el jugador 1 anota una vez y el jugador 2 no anota", () => {
+        expect(calculateScore(1, 0)).toEqual("15 - Love");
+    });
 });
