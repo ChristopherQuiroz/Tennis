@@ -38,9 +38,15 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "255c76df069493b705657a321f6c4108ad7f52bf",
     "commitName": "feat: Agregar puntuacion inicial Love - Love",
     "commitTimestamp": 1788271934071,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Agregado de estructura html y presenter muestra el score en el resultadodiv",
+    "commitTimestamp": 1788272245052,
+    "testId": 2
   }
 ]

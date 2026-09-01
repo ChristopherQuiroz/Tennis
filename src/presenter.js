@@ -1,0 +1,24 @@
+import showScore from './showScore.js';
+
+const player1ScoreButton = document.getElementById('player1-Score');
+const player2ScoreButton = document.getElementById('player2-Score');
+const resultadoDiv = document.getElementById('resultado-div');
+
+addEventListeners();
+
+function addEventListeners() {
+    var player1Score = 0;
+    var player2Score = 0;
+
+    player1ScoreButton.addEventListener('click', () => {
+        player1Score++;
+        updateScoreDisplay(player1Score, player2Score);
+    });
+
+    player2ScoreButton.addEventListener('click', () => {
+        player2Score++;
+        updateScoreDisplay(player1Score, player2Score);
+    });
+
+    resultadoDiv.innerHTML = showScore(player1Score, player2Score);
+}
