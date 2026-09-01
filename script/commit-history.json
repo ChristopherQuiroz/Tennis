@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Chris",
+    "commit": {
+      "date": "2026-09-01T14:02:18.000Z",
+      "message": "feat: casos de prueba",
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 53,
+      "additions": 24,
+      "deletions": 29,
+      "date": "2026-09-01"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  }
+]
