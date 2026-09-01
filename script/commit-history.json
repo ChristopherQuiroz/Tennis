@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ba9081eb2765516193cbc8f7a991e88aab5443d6",
     "author": "Chris",
     "commit": {
       "date": "2026-09-01T14:27:41.000Z",
       "message": "feat: Agregar puntuacion a favor de jugador 1 y jugador 2 no anoto -> 15 - Love",
-      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/ba9081eb2765516193cbc8f7a991e88aab5443d6"
     },
     "stats": {
       "total": 12,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Chris",
+    "commit": {
+      "date": "2026-09-01T14:32:38.000Z",
+      "message": "feat: Agregar si ambos jugadores anotaron un punto muestra 15 - 15",
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 8,
+      "deletions": 5,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }

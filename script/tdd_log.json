@@ -66,9 +66,39 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ba9081eb2765516193cbc8f7a991e88aab5443d6",
     "commitName": "feat: Agregar puntuacion a favor de jugador 1 y jugador 2 no anoto -> 15 - Love",
     "commitTimestamp": 1788272862399,
     "testId": 3
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1788272967247,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788272996645,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788273077950,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Agregar si ambos jugadores anotaron un punto muestra 15 - 15",
+    "commitTimestamp": 1788273161356,
+    "testId": 4
   }
 ]
