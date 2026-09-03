@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "bb168fc4128282fb70df1c2ba3beed688dae0c4b",
     "author": "Chris",
     "commit": {
       "date": "2026-09-03T03:35:05.000Z",
       "message": "feat: Agregar empate Deuce si ambos jugadores anotan tres veces",
-      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/bb168fc4128282fb70df1c2ba3beed688dae0c4b"
     },
     "stats": {
       "total": 18,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Chris",
+    "commit": {
+      "date": "2026-09-03T03:42:30.000Z",
+      "message": "feat: Agregar Advantage Player 1 si el jugador 1 esta con ventaja dado despues del Deuce",
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 8,
+      "deletions": 1,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }

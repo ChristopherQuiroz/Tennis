@@ -4,7 +4,10 @@ function calculateScore(player1Score, player2Score) {
 
     if (player1Score === player2Score && player1Score >= 3) {
         score = 'Deuce';
-    } else {
+    } else if(player1Score >= 4 && player1Score > player2Score) {
+        score = 'Advantage Player 1';
+    }
+    else {
         score = `${scores[player1Score]} - ${scores[player2Score]}`;
     }
 

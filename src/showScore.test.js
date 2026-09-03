@@ -41,4 +41,8 @@ describe('calculateScore', () => {
     it('Deberia mostrar Deuce si ambos jugadores anotan tres veces', () => {
         expect(calculateScore(3, 3)).toEqual("Deuce");
     });
+
+    it('Deberia mostrar Advantage Player 1 si el jugador 1 anota cuatro veces y el jugador 2 anota tres veces', () => {
+        expect(calculateScore(4, 3)).toEqual("Advantage Player 1");
+    });
 });
