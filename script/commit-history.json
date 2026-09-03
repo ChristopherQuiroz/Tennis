@@ -76,18 +76,37 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "78c27349b68e8c3f3b604511b27b3e62d05a4c43",
     "author": "Chris",
     "commit": {
       "date": "2026-09-01T14:32:38.000Z",
       "message": "feat: Agregar si ambos jugadores anotaron un punto muestra 15 - 15",
-      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/78c27349b68e8c3f3b604511b27b3e62d05a4c43"
     },
     "stats": {
       "total": 13,
       "additions": 8,
       "deletions": 5,
       "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Chris",
+    "commit": {
+      "date": "2026-09-03T03:04:58.000Z",
+      "message": "feat: Arreglar mostrado de resultado en html",
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 8,
+      "deletions": 4,
+      "date": "2026-09-03"
     },
     "coverage": 100,
     "test_count": 3,

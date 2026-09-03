@@ -96,9 +96,15 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "78c27349b68e8c3f3b604511b27b3e62d05a4c43",
     "commitName": "feat: Agregar si ambos jugadores anotaron un punto muestra 15 - 15",
     "commitTimestamp": 1788273161356,
     "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Arreglar mostrado de resultado en html",
+    "commitTimestamp": 1788404700043,
+    "testId": 5
   }
 ]

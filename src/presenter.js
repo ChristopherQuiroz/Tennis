@@ -7,8 +7,8 @@ const resultadoDiv = document.getElementById('resultado-div');
 addEventListeners();
 
 function addEventListeners() {
-    var player1Score = 0;
-    var player2Score = 0;
+    let player1Score = 0;
+    let player2Score = 0;
 
     player1ScoreButton.addEventListener('click', () => {
         player1Score++;
@@ -20,5 +20,9 @@ function addEventListeners() {
         updateScoreDisplay(player1Score, player2Score);
     });
 
+    updateScoreDisplay(player1Score, player2Score);
+}
+
+function updateScoreDisplay(player1Score, player2Score) {
     resultadoDiv.innerHTML = showScore(player1Score, player2Score);
 }
