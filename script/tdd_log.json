@@ -124,9 +124,55 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9980391120d3a52846bfd06c0c763ff8488e7966",
     "commitName": "feat: Agregar si un jugador puntuo dos puntos y el otro no anoto -> 30 - Love",
     "commitTimestamp": 1788405062935,
     "testId": 6
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1788405127266,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1788405143868,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1788405429606,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1788405466413,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1788405522587,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Agregar puntuacion a favor de jugador 1 por tres puntos -> 40 - Love",
+    "commitTimestamp": 1788405684524,
+    "testId": 7
   }
 ]

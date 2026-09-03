@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "9980391120d3a52846bfd06c0c763ff8488e7966",
     "author": "Chris",
     "commit": {
       "date": "2026-09-03T03:11:01.000Z",
       "message": "feat: Agregar si un jugador puntuo dos puntos y el otro no anoto -> 30 - Love",
-      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/9980391120d3a52846bfd06c0c763ff8488e7966"
     },
     "stats": {
       "total": 6,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Chris",
+    "commit": {
+      "date": "2026-09-03T03:21:22.000Z",
+      "message": "feat: Agregar puntuacion a favor de jugador 1 por tres puntos -> 40 - Love",
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 13,
+      "deletions": 1,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
