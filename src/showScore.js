@@ -12,7 +12,9 @@ function calculateScore(player1Score, player2Score) {
     const scores = ['Love', '15', '30', '40'];
     let score = '';
 
-    if (player1Score === player2Score && player1Score >= 3) {
+    if(player1Score >= 4 && player1Score - player2Score == 2) {
+        score = 'Game for Player 1';
+    } else if (player1Score === player2Score && player1Score >= 3) {
         score = 'Deuce';
     } else if(player1Score >= 4 || player2Score >= 4) {
         score = decideAdvantage(player1Score, player2Score);

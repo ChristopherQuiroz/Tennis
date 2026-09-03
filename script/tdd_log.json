@@ -260,9 +260,55 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "05b055336f01a8d14c9e8ebf25502debd999ddc2",
     "commitName": "feat: Agregar Advantage Player 2 si el jugador 2 esta con ventaja dado despues del Deuce",
     "commitTimestamp": 1788407415465,
     "testId": 10
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 1,
+    "numTotalTests": 13,
+    "timestamp": 1788407463830,
+    "success": false,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 2,
+    "numTotalTests": 13,
+    "timestamp": 1788407523900,
+    "success": false,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 1,
+    "numTotalTests": 13,
+    "timestamp": 1788407674750,
+    "success": false,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 1,
+    "numTotalTests": 13,
+    "timestamp": 1788407719700,
+    "success": false,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 0,
+    "numTotalTests": 13,
+    "timestamp": 1788407790162,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Agregar si el jugador 1 gano mostrar mensaje Game for Player 1",
+    "commitTimestamp": 1788407900045,
+    "testId": 11
   }
 ]
