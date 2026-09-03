@@ -222,9 +222,47 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c5f7ca30b9837653b7b6f76556d4c2933878068b",
     "commitName": "feat: Agregar Advantage Player 1 si el jugador 1 esta con ventaja dado despues del Deuce",
     "commitTimestamp": 1788406953110,
     "testId": 9
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1788407142681,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1788407182501,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1788407289627,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1788407363954,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Agregar Advantage Player 2 si el jugador 2 esta con ventaja dado despues del Deuce",
+    "commitTimestamp": 1788407415465,
+    "testId": 10
   }
 ]

@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "c5f7ca30b9837653b7b6f76556d4c2933878068b",
     "author": "Chris",
     "commit": {
       "date": "2026-09-03T03:42:30.000Z",
       "message": "feat: Agregar Advantage Player 1 si el jugador 1 esta con ventaja dado despues del Deuce",
-      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/c5f7ca30b9837653b7b6f76556d4c2933878068b"
     },
     "stats": {
       "total": 9,
@@ -186,6 +186,25 @@
     },
     "coverage": 100,
     "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Chris",
+    "commit": {
+      "date": "2026-09-03T03:50:13.000Z",
+      "message": "feat: Agregar Advantage Player 2 si el jugador 2 esta con ventaja dado despues del Deuce",
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 16,
+      "deletions": 2,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 12,
     "failed_tests": 0,
     "conclusion": "success"
   }
