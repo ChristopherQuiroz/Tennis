@@ -8,12 +8,22 @@ function decideAdvantage(player1Score, player2Score) {
     return advantage;
 }
 
+function winner(player1Score, player2Score) {
+    let winner = '';
+    if(player1Score > player2Score) {
+        winner = 'Game for Player 1';
+    } else {
+        winner = 'Game for Player 2';
+    }
+    return winner;
+}
+
 function calculateScore(player1Score, player2Score) {
     const scores = ['Love', '15', '30', '40'];
     let score = '';
 
-    if(player1Score >= 4 && player1Score - player2Score == 2) {
-        score = 'Game for Player 1';
+    if(Math.abs(player1Score - player2Score) >= 2 && (player1Score >= 4 || player2Score >= 4)) {
+        score = winner(player1Score, player2Score);
     } else if (player1Score === player2Score && player1Score >= 3) {
         score = 'Deuce';
     } else if(player1Score >= 4 || player2Score >= 4) {
