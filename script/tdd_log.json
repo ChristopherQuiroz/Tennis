@@ -102,9 +102,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c9cbb6d370b55336442e0584b55456b4c6cf3ba5",
     "commitName": "feat: Arreglar mostrado de resultado en html",
     "commitTimestamp": 1788404700043,
     "testId": 5
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1788404887289,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1788404911316,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Agregar si un jugador puntuo dos puntos y el otro no anoto -> 30 - Love",
+    "commitTimestamp": 1788405062935,
+    "testId": 6
   }
 ]

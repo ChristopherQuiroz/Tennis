@@ -1,5 +1,5 @@
 function calculateScore(player1Score, player2Score) {
-    const scores = ['Love', '15'];
+    const scores = ['Love', '15', '30'];
     let score = '';
 
     score = `${scores[player1Score]} - ${scores[player2Score]}`;

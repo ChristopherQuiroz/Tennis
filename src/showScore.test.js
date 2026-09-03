@@ -13,4 +13,8 @@ describe('calculateScore', () => {
     it("Deberia mostrar 15 - 15 si ambos jugadores anotan una vez", () => {
         expect(calculateScore(1, 1)).toEqual("15 - 15");
     });
+
+    it('Deberia mostrar 30 - Love si el jugador 1 anota dos veces y el jugador 2 no anota', () => {
+        expect(calculateScore(2, 0)).toEqual("30 - Love");
+    });
 });
