@@ -352,9 +352,15 @@
     "testId": 12
   },
   {
-    "commitId": "HEAD",
+    "commitId": "4fbc159ef3076d8a076c7a2dc608020571d08f60",
     "commitName": "feat: Agregar Game for Player 2 si el jugador 2 ha ganado el juego",
     "commitTimestamp": 1788408429189,
     "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: Agregar inutilizacion de botones una vez un jugador haya ganado el juego",
+    "commitTimestamp": 1788408564814,
+    "testId": 13
   }
 ]

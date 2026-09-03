@@ -228,17 +228,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4fbc159ef3076d8a076c7a2dc608020571d08f60",
     "author": "Chris",
     "commit": {
       "date": "2026-09-03T04:07:07.000Z",
       "message": "feat: Agregar Game for Player 2 si el jugador 2 ha ganado el juego",
-      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/4fbc159ef3076d8a076c7a2dc608020571d08f60"
     },
     "stats": {
       "total": 18,
       "additions": 16,
       "deletions": 2,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Chris",
+    "commit": {
+      "date": "2026-09-03T04:09:23.000Z",
+      "message": "fix: Agregar inutilizacion de botones una vez un jugador haya ganado el juego",
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
       "date": "2026-09-03"
     },
     "coverage": 100,

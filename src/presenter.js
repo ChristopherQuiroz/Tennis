@@ -24,5 +24,11 @@ function addEventListeners() {
 }
 
 function updateScoreDisplay(player1Score, player2Score) {
-    resultadoDiv.innerHTML = showScore(player1Score, player2Score);
+    const score = showScore(player1Score, player2Score);
+    resultadoDiv.innerHTML = score;
+
+    if(score.startsWith('Game for Player')) {
+        player1ScoreButton.disabled = true;
+        player2ScoreButton.disabled = true;
+    }
 }
