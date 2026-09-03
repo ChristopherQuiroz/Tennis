@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "00c7d3643a2ee98d2b165ab2fa4f096087c1cb2b",
     "author": "Chris",
     "commit": {
       "date": "2026-09-03T03:21:22.000Z",
       "message": "feat: Agregar puntuacion a favor de jugador 1 por tres puntos -> 40 - Love",
-      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/00c7d3643a2ee98d2b165ab2fa4f096087c1cb2b"
     },
     "stats": {
       "total": 14,
@@ -148,6 +148,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Chris",
+    "commit": {
+      "date": "2026-09-03T03:35:05.000Z",
+      "message": "feat: Agregar empate Deuce si ambos jugadores anotan tres veces",
+      "url": "https://github.com/ChristopherQuiroz/Tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 17,
+      "deletions": 1,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }
